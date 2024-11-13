@@ -7,7 +7,7 @@ import {
 } from "./lib/api.js";
 import {
   DRY_RUN,
-  FAST_MODE,
+  //FAST_MODE,
   LIST_ITEM_LIMIT,
   LIST_ITEM_SIZE,
   PROCESSING_FILENAME,
