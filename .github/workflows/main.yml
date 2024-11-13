@@ -1,5 +1,8 @@
 name: Update Filter Lists
 
+on:
+  schedule:
+    - cron: "30 22 * * 4"
   workflow_dispatch:
 
 concurrency:
