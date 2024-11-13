@@ -16,7 +16,7 @@ Cloudflare Gateway allows you to create custom rules to filter HTTP, DNS, and ne
 
 ## Features
 
-- **Support for female and low-tech user to fast and minium setup steps**
+- **Support for low-tech user to fast and minium setup steps**
 - Support for basic hosts files
 - Full support for domain lists
 - Automatically cleans up filter lists: removes duplicates, invalid domains, comments and more
