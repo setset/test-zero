@@ -138,7 +138,7 @@ console.log("\n\n");
   }
 
   if (FAST_MODE) {
-    await createZeroTrustListsOneByOne(domains);
+    await createZeroTrustListsAtOnce(domains);
     return;
   }
 
