@@ -6,9 +6,6 @@ Cloudflare Gateway allows you to create custom rules to filter HTTP, DNS, and ne
 
 > **Support for female and low-tech user to fast and minium setup steps**
 
-## For Vietnamese User
-Go to [Molify](https://molify.net/tu-tao-dns-voi-cloudflare-zero-trust/)
-
 ## About the individual scripts
 
 - `cf_list_delete.js` - Deletes all lists created by LLGP from Cloudflare Gateway. This is useful for subsequent runs.
